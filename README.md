@@ -8,6 +8,7 @@ https://github.com/Sakhaa-Digital/GDG_Frontend
 
 👉 Backend:
 https://github.com/Sakhaa-Digital/GDG_Backend
+
 AI-Powered Compliance Automation Platform
 
 SmartPolicy is an intelligent compliance enforcement system that transforms static policy documents into executable validation logic and automatically applies them to operational datasets.
